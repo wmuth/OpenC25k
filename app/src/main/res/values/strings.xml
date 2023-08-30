@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--General-->
+
+    <!--Main activity-->
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+
+    <!--Volume dialog-->
+    <string name="setVol">Set Volume</string>
+    <string name="zero">0</string>
+
+    <!--Track activity-->
+    <string name="warmup">Warmup💪</string>
+    <string name="walk">Walk🚶</string>
+    <string name="jog">Jog🏃💨</string>
+    <string name="runComplete">🏁You did it!🥳</string>
+    <string name="btnStartStr">Start</string>
+    <string name="btnSkipStr">Skip</string>
+    <string name="btnPauseStr">Pause</string>
+    <string name="timeRemain">Total time remaining:</string>
+
+    <!--Menu-->
+    <string name="sound">Sound</string>
+    <string name="testVolume">Test Volume</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="checkbox">Checkbox</string>
+
+    <!--Weeks, separated into a group of 3 per week-->
+    <string name="w1d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 60 seconds of jogging and 90 seconds of walking for a total of 20 minutes.</string>
+    <string name="w1d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 60 seconds of jogging and 90 seconds of walking for a total of 20 minutes.</string>
+    <string name="w1d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 60 seconds of jogging and 90 seconds of walking for a total of 20 minutes.</string>
+
+    <string name="w2d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 90 seconds of jogging and 2 minutes of walking for a total of 20 minutes.</string>
+    <string name="w2d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 90 seconds of jogging and 2 minutes of walking for a total of 20 minutes.</string>
+    <string name="w2d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then alternate 90 seconds of jogging and 2 minutes of walking for a total of 20 minutes.</string>
+
+    <string name="w3d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then do two repetitions of the following:\n\nJog 90 seconds\n\nWalk 90 seconds\n\nJog 3 minutes\n\nWalk 3 minutes</string>
+    <string name="w3d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then do two repetitions of the following:\n\nJog 90 seconds\n\nWalk 90 seconds\n\nJog 3 minutes\n\nWalk 3 minutes</string>
+    <string name="w3d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then do two repetitions of the following:\n\nJog 90 seconds\n\nWalk 90 seconds\n\nJog 3 minutes\n\nWalk 3 minutes</string>
+
+    <string name="w4d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then:\n\nJog 3 minutes\n\nWalk 90 seconds\n\nJog 5 minutes\n\nWalk 2½ minutes\n\nJog 3 minutes\n\nWalk 90 seconds\n\nJog 5 minutes</string>
+    <string name="w4d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then:\n\nJog 3 minutes\n\nWalk 90 seconds\n\nJog 5 minutes\n\nWalk 2½ minutes\n\nJog 3 minutes\n\nWalk 90 seconds\n\nJog 5 minutes</string>
+    <string name="w4d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then:  Jog 3 minutes  Walk 90 seconds  Jog 5 minutes  Walk 2½ minutes  Jog 3 minutes  Walk 90 seconds  Jog 5 minutes</string>
+
+    <string name="w5d1">Brisk five-minute warmup walk. Then:\n\nJog 5 minutes\n\nWalk 3 minutes\n\nJog 5 minutes\n\nWalk 3 minutes\n\nJog 5 minutes</string>
+    <string name="w5d2">Brisk five-minute warmup walk. Then:\n\nJog 8 minutes\n\nWalk 5 minutes\n\nJog 8 minutes</string>
+    <string name="w5d3">Brisk five-minute warmup walk. Then, jog 20 minutes with no walking.</string>
+
+    <string name="w6d1">Brisk five-minute warmup walk. Then:\n\nJog 5 minutes\n\nWalk 3 minutes\n\nJog 8 minutes\n\nWalk 3 minutes\n\nJog 5 minutes</string>
+    <string name="w6d2">Brisk five-minute warmup walk. Then:\n\nJog 10 minutes\n\nWalk 3 minutes\n\nJog 10 minutes</string>
+    <string name="w6d3">Brisk five-minute warmup walk. Then, jog 22 minutes with no walking.</string>
+
+    <string name="w7d1">Brisk five-minute warmup walk. Then, jog 25 minutes </string>
+    <string name="w7d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 25 minutes.</string>
+    <string name="w7d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 25 minutes.</string>
+
+    <string name="w8d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 28 minutes.</string>
+    <string name="w8d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 28 minutes.</string>
+    <string name="w8d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 28 minutes.</string>
+
+    <string name="w9d1" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 30 minutes.</string>
+    <string name="w9d2" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 30 minutes.</string>
+    <string name="w9d3" tools:ignore="DuplicateStrings">Brisk five-minute warmup walk. Then, jog 30 minutes.</string>
+    <string name="app_name">OpenC25k</string>
+</resources>

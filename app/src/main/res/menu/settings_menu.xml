@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/vibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="true"
+        android:title="@string/vibrate" />
+    <item
+        android:id="@+id/sound"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="true"
+        android:title="@string/sound" />
+    <item
+        android:id="@+id/setVol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/setVol" />
+    <item
+        android:id="@+id/testVol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/testVolume" />
+</menu>

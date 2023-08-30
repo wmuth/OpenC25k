@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OpenC25k</string>
+    <string name="week">Vecka</string>
+    <string name="day">Dag</string>
+    <string name="setVol">Ange volym</string>
+    <string name="zero">0</string>
+    <string name="warmup">Uppvärmning💪</string>
+    <string name="walk">Gå🚶</string>
+    <string name="jog">Jogga🏃💨</string>
+    <string name="runComplete">🏁Du klarade det!🥳</string>
+    <string name="btnStartStr">Starta</string>
+    <string name="btnSkipStr">Hoppa över</string>
+    <string name="btnPauseStr">Pausa</string>
+    <string name="timeRemain">Total kvarvarande tid:</string>
+    <string name="sound">Ljud</string>
+    <string name="testVolume">Testa volym</string>
+    <string name="vibrate">Vibrera</string>
+    <string name="checkbox">Kryssruta</string>
+    <string name="w1d1">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 60 sekunder av jogging och 90 sekunder av gående i sammanlagt 20 minuter.</string>
+    <string name="w1d2">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 60 sekunder av jogging och 90 sekunder av gående i sammanlagt 20 minuter.</string>
+    <string name="w1d3">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 60 sekunder av jogging och 90 sekunder av gående i sammanlagt 20 minuter.</string>
+    <string name="w2d1">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 90 sekunder av jogging och 2 minuter av gående i sammanlagt 20 minuter.</string>
+    <string name="w2d2">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 90 sekunder av jogging och 2 minuter av gående i sammanlagt 20 minuter.</string>
+    <string name="w2d3">Snabb uppvärmningspromenad på fem minuter. Sedan, alternera 90 sekunder av jogging och 2 minuter av gående i sammanlagt 20 minuter.</string>
+    <string name="w3d1">Snabb uppvärmningspromenad på fem minuter. Sedan gör två repetitioner av följande:\n\nJogga 90 sekunder\n\nGå 90 sekunder\n\nJogga 3 minuter\n\nGå 3 minuter</string>
+    <string name="w3d2">Snabb uppvärmningspromenad på fem minuter. Sedan gör två repetitioner av följande:\n\nJogga 90 sekunder\n\nGå 90 sekunder\n\nJogga 3 minuter\n\nGå 3 minuter</string>
+    <string name="w3d3">Snabb uppvärmningspromenad på fem minuter. Sedan gör två repetitioner av följande:\n\nJogga 90 sekunder\n\nGå 90 sekunder\n\nJogga 3 minuter\n\nGå 3 minuter</string>
+    <string name="w4d1">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 3 minuter\n\nGå 90 sekunder\n\nJogga 5 minuter\n\nGå 2½ minuter\n\nJogga 3 munter\n\nGå 90 sekunder\n\nJogga 5 minuter</string>
+    <string name="w4d2">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 3 minuter\n\nGå 90 sekunder\n\nJogga 5 minuter\n\nGå 2½ minuter\n\nJogga 3 munter\n\nGå 90 sekunder\n\nJogga 5 minuter</string>
+    <string name="w4d3">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 3 minuter\n\nGå 90 sekunder\n\nJogga 5 minuter\n\nGå 2½ minuter\n\nJogga 3 munter\n\nGå 90 sekunder\n\nJogga 5 minuter</string>
+    <string name="w5d1">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 5 minuter\n\nGå 3 minuter\n\nJogga 5 minuter\n\nGå 3 minuter\n\nJogga 5 minuter</string>
+    <string name="w5d2">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 8 minuter\n\nGå 5 minuter\n\nJogga 8 minuter</string>
+    <string name="w5d3">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 20 minuter utan att gå.</string>
+    <string name="w6d1">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 5 minuter\n\nGå 3 minuter\n\nJogga 8 minuter\n\nGå 3 minuter\n\nJogga 5 minuter</string>
+    <string name="w6d2">Snabb uppvärmningspromenad på fem minuter. Sedan:\n\nJogga 10 minuter\n\nGå 3 minuter\n\nJogga 10 minuter</string>
+    <string name="w6d3">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 22 minuter utan att gå.</string>
+    <string name="w7d1">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 25 minuter</string>
+    <string name="w7d2">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 25 minuter</string>
+    <string name="w7d3">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 25 minuter</string>
+    <string name="w8d1">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 28 minuter</string>
+    <string name="w8d2">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 28 minuter</string>
+    <string name="w8d3">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 28 minuter</string>
+    <string name="w9d1">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 30 minuter.</string>
+    <string name="w9d2">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 30 minuter.</string>
+    <string name="w9d3">Snabb uppvärmningspromenad på fem minuter. Sedan, jogga 30 minuter.</string>
+</resources>
